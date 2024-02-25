@@ -13,3 +13,13 @@
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 apple.com
 0.0.0.0 www.apple.com
+0.0.0.0 apple.com
+0.0.0.0 www.apple.com
+0.0.0.0 apple.com
+0.0.0.0 www.apple.com
+0.0.0.0 apple.com
+0.0.0.0 www.apple.com
+0.0.0.0 apple.com
+0.0.0.0 www.apple.com
+0.0.0.0 apple.com
+0.0.0.0 www.apple.com
