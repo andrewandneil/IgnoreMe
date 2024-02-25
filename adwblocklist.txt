@@ -1,3 +1,4 @@
 216.239.38.120 google.com
 216.239.38.120 www.google.com
 0.0.0.0 apple.com
+0.0.0.0 www.apple.com
