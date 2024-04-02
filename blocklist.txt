@@ -1,1 +1,2 @@
 byteoversea.com
+telemetry-prd.vn.tesla.services
